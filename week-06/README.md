@@ -1,4 +1,4 @@
-# Week 04
+# Week 06
 
 ## Q1. YOLO(You Only Look Once) 모델의 주요 특징과 장점은 무엇인가요?
 
