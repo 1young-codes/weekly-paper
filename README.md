@@ -13,4 +13,4 @@
 | Week 03 | 딥러닝·머신러닝 포함관계 · 하이퍼파라미터 | [바로가기](./week-03/) |
 | Week 04 | PyTorch/TensorFlow  · 텐서  · CNN · AutoEncoder | [바로가기](./week-04/) |
 | Week 05 | 이미지 전처리  · 데이터 증강  · 전이 학습 정리 | [바로가기](./week-05/) |
-
+| Week 06 | YOLO  · mAP | [바로가기](./week-06/) |
