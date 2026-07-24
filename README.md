@@ -14,3 +14,4 @@
 | Week 04 | PyTorch/TensorFlow  · 텐서  · CNN · AutoEncoder | [바로가기](./week-04/) |
 | Week 05 | 이미지 전처리  · 데이터 증강  · 전이 학습 정리 | [바로가기](./week-05/) |
 | Week 06 | YOLO  · mAP | [바로가기](./week-06/) |
+| Week 07 | Semantic Segmentation, FCN, GAN, Diffusion | [바로가기](./week-07/) |
