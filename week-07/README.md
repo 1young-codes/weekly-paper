@@ -1,3 +1,5 @@
+# Week 07
+
 ## Q1. Semantic Segmentation이란 무엇이며, 이미지 분류(Classification)와 어떤 차이가 있나요?
 
 **한 줄 요약:** Semantic Segmentation은 이미지의 모든 픽셀에 클래스를 하나씩 할당하는 작업으로, 이미지 전체에 대해 하나의 클래스만 예측하는 이미지 분류와 달리 객체의 위치와 경계를 픽셀 단위로 구분해낸다.
