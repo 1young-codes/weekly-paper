@@ -19,3 +19,4 @@
 | Week 09 | BERT와 GPT 비교, Hugging Face, 이후 사전학습 모델 | [바로가기](./week-09/) |
 | Week 10 | LangChain RAG 구성 요소, 평가, Agent | [바로가기](./week-10/) |
 | Week 11 | Docker, Kubernetes, 모델 경량화(ONNX, TensorRT, 양자화) | [바로가기](./week-11/) |
+| Week 12 | Streamlit, FastAPI, VoiceSummarizer 배포 아키텍처 | [바로가기](./week-12/) |
