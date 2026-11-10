@@ -20,3 +20,4 @@
 | Week 10 | LangChain RAG 구성 요소, 평가, Agent | [바로가기](./week-10/) |
 | Week 11 | Docker, Kubernetes, 모델 경량화(ONNX, TensorRT, 양자화) | [바로가기](./week-11/) |
 | Week 12 | Streamlit, FastAPI, VoiceSummarizer 배포 아키텍처 | [바로가기](./week-12/) |
+| Week 13 | 모델 서빙, Triton 추론 서버 통합 | [바로가기](./week-13/) |
